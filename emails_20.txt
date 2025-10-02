@@ -1,0 +1,247 @@
+From: alice.hunt@student.college.edu
+Subject: Internship Application - AI Automation
+Date: 2025-09-20
+
+Hi Team,
+
+I'm Alice Hunt, a 3rd-year CS student interested in internships focused on AI automation. I have experience with Python, basic ML, and building small automation scripts with Google Apps Script. Attached is my resume. Would love to discuss any opportunities for the coming semester.
+
+Thanks,
+Alice
+
+---
+From: hr@localcafe.com
+Subject: Canteen Supply Delay — Urgent
+Date: 2025-09-18
+
+Hello,
+
+Our weekly supply shipment was delayed and we are running low on bread and milk. Can you confirm the revised delivery time and whether partial shipments are possible today? Our Saturday rush depends on it.
+
+Regards,
+Priya
+Local Cafe
+
+---
+From: marketing@retailplus.com
+Subject: Request: Automated Daily Sales Summary
+Date: 2025-09-22
+
+Team,
+
+We'd like to automate a daily sales summary from our POS system and have it emailed to store managers by 8 AM. The summary should include top-selling SKUs, total revenue, and anomalies (refunds > 5%). Please propose a simple architecture and estimated time to MVP.
+
+Best,
+Anand
+RetailPlus Marketing
+
+---
+From: support@cloudfax.io
+Subject: Ticket #4531 - Fax delivery failed
+Date: 2025-09-25
+
+Hi,
+
+We noticed an increase in failed fax deliveries for one of our enterprise clients. Attached are logs for the last 24 hours. Can your engineering team analyze and advise root cause? Priority: high.
+
+Thanks,
+Support Team
+
+---
+From: sara.khan@startupx.ai
+Subject: Meeting Recap and Action Items
+Date: 2025-09-21
+
+Hey Team,
+
+Thanks for a productive meeting today. Recap:
+1) Scope: PoC for automated invoice verification.
+2) Owner: Sara (backend), Omar (frontend).
+3) Next: Data sample by Friday; integration doc by Monday.
+
+Action: Please upload sample invoices to the shared drive.
+
+Cheers,
+Sara
+
+---
+From: billing@acmeprint.com
+Subject: Invoice Overcharge
+Date: 2025-09-17
+
+Dear Accounts,
+
+I was charged twice for invoice #9921. Please review and process a refund for the duplicate charge. Invoice and payment screenshot attached.
+
+Regards,
+Kamal
+
+---
+From: careers@bigbank.com
+Subject: On-campus Hiring: Workshop Confirmation
+Date: 2025-09-10
+
+Hello Mohammed,
+
+Thanks for coordinating the campus event. Can you confirm the room booking, tech setup (projector + mic), and the time slot 10:00–13:00 on Sept 30? Also, please share a headcount estimate.
+
+Regards,
+Recruitment Team
+
+---
+From: vendor@spicesglobal.com
+Subject: New Cardamom Batch — Quality Report
+Date: 2025-09-19
+
+Hi Mohammed,
+
+We've sent the sample batch (Lot#C-202509) for your review. The lab test shows 1.2% moisture and 99% purity. Please confirm if you want to proceed with a 500 kg shipment.
+
+Warm regards,
+Ravi
+Sales, Spices Global
+
+---
+From: security@college.edu
+Subject: Password Reset Required
+Date: 2025-09-23
+
+Dear User,
+
+As part of our security upgrade, all staff and students must reset their campus passwords by Oct 1. Follow the link to reset. If you face issues, contact IT.
+
+Thanks,
+IT Security
+
+---
+From: customer@brightgadgets.com
+Subject: Product arrived damaged
+Date: 2025-09-24
+
+Hi there,
+
+My order #3345 arrived with a cracked screen. I need a replacement or refund. Photos attached. Please advise the next steps.
+
+Thanks,
+Leena
+
+---
+From: partner@datasync.co
+Subject: Proposal: Integration Partnership
+Date: 2025-09-16
+
+Team,
+
+We propose a strategic integration between our data pipeline product and your automation workflows. Expected benefits: reduced ingest time and enriched metadata. Can we schedule a demo next week?
+
+Regards,
+Naveen
+Business Development
+
+---
+From: events@techclub.college
+Subject: Speaker Invite: AI Automation Workshop
+Date: 2025-09-14
+
+Hello,
+
+Would your agency be interested in delivering a 90-minute hands-on session on "Building automation with LLMs" at our Tech Club event? We can provide a small honorarium and food for speakers.
+
+Best,
+Tech Club
+
+---
+From: nadia@ecomstore.com
+Subject: Feature Request: Return Reason Extraction
+Date: 2025-09-11
+
+Hi,
+
+We process hundreds of return messages daily. Can you build an extractor that tags reasons (size, damage, wrong item) and suggests automated responses? Output should be CSV-ready.
+
+Thanks,
+Nadia
+
+---
+From: intern.coord@researchlab.org
+Subject: Confirmation: Internship Interview
+Date: 2025-09-12
+
+Dear Candidate,
+
+Your interview is scheduled for Sept 27 at 14:00. Please bring an ID and a short portfolio. If you need to reschedule, reply with available times.
+
+Sincerely,
+Internships Team
+
+---
+From: finance@aifirelab.com
+Subject: PO Approval Needed
+Date: 2025-09-13
+
+Mohammed,
+
+Please approve Purchase Order #445 for the new GPU cluster. Total cost: INR 1,200,000. Approval required to proceed with vendor deposit.
+
+Thanks,
+Finance
+
+---
+From: userfeedback@learnify.app
+Subject: Bug Report: Quiz scores not saving
+Date: 2025-09-08
+
+Hi,
+
+Several users report that quiz attempt scores aren't saving if they switch tabs. Steps to reproduce and screenshots attached. Please prioritize.
+
+Regards,
+QA Team
+
+---
+From: pr@greenstartup.org
+Subject: Invitation: Sustainability Hackathon
+Date: 2025-09-05
+
+Hi,
+
+We invite your team to mentor at our 48-hour sustainability hackathon on Oct 10–12. Mentors will have a chance to scout talent and win sponsor perks.
+
+Cheers,
+Maya
+
+---
+From: amir@logisticsx.com
+Subject: API Rate Limit Increase Request
+Date: 2025-09-03
+
+Hi Team,
+
+Our integrations are hitting 429 errors during peak hours. Please advise on raising API rate limits or suggest backoff strategies.
+
+Thanks,
+Amir
+
+---
+From: emma@hrconsult.co
+Subject: Candidate Feedback — Riya Sharma
+Date: 2025-09-02
+
+Hi Mohammed,
+
+Riya interviewed last week for the automation analyst role. She showed strong systems thinking but limited scripting experience. Recommend for entry-level with training.
+
+Best,
+Emma
+
+---
+From: hello@newsletter.ai
+Subject: Weekly Product Digest — 2025-09-20
+Date: 2025-09-20
+
+Hi Subscriber,
+
+This week: new Gemini CLI updates, 3 tips to design prompts for automation, and a case study on auto-invoicing. Read more inside.
+
+Thanks,
+The Newsletter Team
